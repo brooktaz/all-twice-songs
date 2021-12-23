@@ -1,0 +1,118 @@
+/* a minimalist set of CSS resets */
+
+.titletrack {
+  font-weight: bold;
+  font-style: italic;
+}
+.single {
+  font-style: italic;
+}
+.reissue {
+  text-decoration: underline;
+}
+.rs {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+  font-family: Space Grotesk, Verdana,  sans-serif;
+  font-size: 30px;
+}
+h3 {
+  font-family: Space Grotesk, Verdana,  sans-serif;
+}
+p,li {
+  font-family: IBM Plex Sans, Verdana,  sans-serif;
+}
+#description {
+  text-align: center;
+}
+hr {
+  font-weight: bold;
+}
+#all {
+  padding: 25px 250px 1px 250px;
+}
+#title {
+  background-color: #FAF8EF;
+  padding: 25px 50px 75px 100px;
+}
+#ooh-ahh {
+  background-color: #FFC8DD;
+  /*border-left: 6px solid red;
+  border-bottom: 6px solid #213918;*/
+  padding: 25px 25px 25px 100px;
+}
+#cheerup {
+  background-color: #FFAFCC;
+  padding: 25px 25px 25px 100px;
+}
+#lane1 {
+  background-color: #BDE0FE;
+  padding: 25px 25px 25px 100px;
+}
+#lane2 {
+  background-color: #A2D2FF;
+  padding: 25px 25px 25px 100px;
+}
+#signal {
+  background-color: #CDB4DB;
+  padding: 25px 25px 25px 100px;
+}
+#likey {
+  background-color: #FFC8DD;
+  padding: 25px 25px 25px 100px;
+}
+#heartshaker {
+  background-color: #FFF3F6;
+  border-style: double;
+  border-width: 15px;
+  border-color: #FF1D38;
+  padding: 25px 25px 25px 100px;
+}
+#whatislove {
+  background-color: #FFAFCC;
+  padding: 25px 25px 25px 100px;
+}
+#DTNA {
+  background-color: #BDE0FE;
+  padding: 25px 25px 25px 100px;
+}
+#yesoryes {
+  background-color: #A2D2FF;
+ padding: 25px 25px 25px 100px;
+}
+#fancy {
+  background-color: #CDB4DB;
+  padding: 25px 25px 25px 100px;
+}
+#feelspecial {
+  background-color: #FFC8DD;
+  padding: 25px 25px 25px 100px;
+}
+#more-more {
+  background-color: #FFAFCC;
+  padding: 25px 25px 25px 100px;
+}
+#ICSM {
+  background-color: #BDE0FE;
+  padding: 25px 25px 25px 100px;
+}
+#cryforme {
+  background-color: #A2D2FF;
+  padding: 25px 25px 25px 100px;
+}
+#alfree {
+  background-color: #CDB4DB;
+  padding: 25px 25px 25px 100px;
+}
+#feels {
+  background-color: #FFC8DD;
+ padding: 25px 25px 25px 100px;
+}
+#scientist {
+  background-color: #BDE0FE;
+padding: 25px 25px 25px 100px;
+}
